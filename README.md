@@ -3,8 +3,7 @@
 A simple Android application built using Kotlin + Jetpack Compose that helps pregnant women track daily health vitals such as blood pressure, heart rate, weight, and baby kicks.
 The app stores data locally using Room Database and reminds users using WorkManager notifications.
 
-![image alt](https://github.com/Singhutkarsh2003/Pregnancy-Vitals-Tracker/blob/ab2e678f99424cc95c499e6732b2e451ad039d9a/Screenshot%202026-01-22%20160213.png)    
-![image alt](https://github.com/Singhutkarsh2003/Pregnancy-Vitals-Tracker/blob/10feba4dc2d04a6c04de136838a0f31b2c0c51a7/Screenshot%202026-01-22%20160233.png)
+![image alt](https://github.com/Singhutkarsh2003/Pregnancy-Vitals-Tracker/blob/ab2e678f99424cc95c499e6732b2e451ad039d9a/Screenshot%202026-01-22%20160213.png)    ![image alt](https://github.com/Singhutkarsh2003/Pregnancy-Vitals-Tracker/blob/10feba4dc2d04a6c04de136838a0f31b2c0c51a7/Screenshot%202026-01-22%20160233.png)
 
 📱 Features
 
